@@ -2,4 +2,4 @@
 
 n = int(input("Insert a number: "))
 
-print(f"The number before {n} is {n - 1} and the number after {n} is {n + 1}")
+print(f"The number before {n} is {n - 1} and the number after {n} is {n + 1}.")
